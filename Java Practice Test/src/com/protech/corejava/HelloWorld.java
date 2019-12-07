@@ -1,4 +1,4 @@
-package com.protect.corejava;
+package com.protech.corejava;
 
 public class HelloWorld {
 	
